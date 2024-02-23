@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "494158846237",
+    "project_id": "grad-app-b944d",
+    "storage_bucket": "grad-app-b944d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494158846237:android:f41b85752b3451ef5469f4",
+        "android_client_info": {
+          "package_name": "com.example.grad_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCmyi5vGk-1xHQfot6Rm4tUABr75xjwZj4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
